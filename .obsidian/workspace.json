@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bad241e4d732564",
+  "active": "b678e99ec74306cd",
   "lastOpenFiles": [
-    "README.md",
+    "asset/Pasted image 20250928085351.png",
     "mongoDB/1. No-SQL 기본.md",
+    "README.md",
     "asset/Pasted image 20250928082054.png",
     "asset/Pasted image 20250928081809.png",
     "asset/Pasted image 20250928081517.png",
