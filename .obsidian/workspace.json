@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mongoDB/1. No-SQL 기본.md",
+                "file": "mongoDB/2. Document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. No-SQL 기본"
+              "title": "2. Document"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b678e99ec74306cd",
+  "active": "7771d829c75b613f",
   "lastOpenFiles": [
-    "asset/Pasted image 20250928085351.png",
     "mongoDB/1. No-SQL 기본.md",
+    "mongoDB/2. Document.md",
+    "asset/Pasted image 20250928085351.png",
     "README.md",
     "asset/Pasted image 20250928082054.png",
     "asset/Pasted image 20250928081809.png",
