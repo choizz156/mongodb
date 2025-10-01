@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mongoDB/4. Data 관계.md",
+                "file": "mongoDB/5. CRUD, 쿼리 문법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Data 관계"
+              "title": "5. CRUD, 쿼리 문법"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7771d829c75b613f",
+  "active": "5bad241e4d732564",
   "lastOpenFiles": [
-    "mongoDB/3. Data Type.md",
+    "mongoDB/5. CRUD, 쿼리 문법.md",
+    "mongoDB/5. CRUD, 쿼리 문법.md",
+    "GEMINI.md",
+    "explanation.md",
     "mongoDB/4. Data 관계.md",
+    "mongoDB/3. Data Type.md",
     "mongoDB/2. Document.md",
     "mongoDB/1. No-SQL 기본.md",
     "asset/Pasted image 20250928085351.png",
