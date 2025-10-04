@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mongoDB/6. Aggregation -> lookup.md",
+                "file": "mongoDB/7. Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Aggregation -> lookup"
+              "title": "7. Sort"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "02fa94a089f81ceb",
@@ -182,8 +183,9 @@
   },
   "active": "7771d829c75b613f",
   "lastOpenFiles": [
-    "mongoDB/5. CRUD, 쿼리 문법.md",
     "mongoDB/6. Aggregation -> lookup.md",
+    "mongoDB/7. Sort.md",
+    "mongoDB/5. CRUD, 쿼리 문법.md",
     "GEMINI.md",
     "explanation.md",
     "mongoDB/4. Data 관계.md",
